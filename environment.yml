@@ -1,0 +1,10 @@
+name: de1_nano
+
+dependencies:
+ - python=3.8
+ - numpy
+ - pandas
+ - requests
+ - pip:
+   - tweepy
+   - json
